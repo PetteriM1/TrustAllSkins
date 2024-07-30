@@ -1,0 +1,5 @@
+name: TrustAllSkins
+main: petterim1.skin.settrusted.Plugin
+version: "${pom.version}"
+api: ["1.0.0"]
+author: PetteriM1
